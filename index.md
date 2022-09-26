@@ -6,6 +6,7 @@
 <body>
 
     <h1>Simple co-browse with voice example</h1>
+    <p>Org setup: bughuntprod</p>
 
         <button type="button" id="start-cobrowse" onclick="genesysWebchat.startCobrowse()">Enter Co-browse Security Key</button>
 
