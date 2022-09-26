@@ -16,7 +16,7 @@
     <script src="https://apps.mypurecloud.com/webchat/jsapi-v1.js" type="text/javascript"></script>
 
     <!-- For co-browse with voice, you must load the co-browse API. Co-browse with web chat loads the co-browse API for you. -->
-    <script src="https://cobrowse.mypurecloud.com/cobrowse-jsapi-v1.js?deploymentKey=e97a2d9c-03e7-4a37-8246-af1ceb7de226" type="text/javascript"></script>
+    <script src="https://cobrowse.mypurecloud.com/cobrowse-jsapi-v1.js?deploymentKey=0ayfKA9U40yQE7yP9iEGO3p4VbOwHqih" type="text/javascript"></script>
 
     <script type="text/javascript">
     let genesysWebchat = (function() {
