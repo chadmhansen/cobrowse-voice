@@ -6,7 +6,7 @@
 <body>
 
     <h1>Simple co-browse with voice example</h1>
-    <p>Org setup: bughuntprod</p>
+    <p>Org setup: bughuntprod. Navigate to different sub-domain via: https://chadhansengenesys.github.io/cobrowse-voice.html</p>
 
         <button type="button" id="start-cobrowse" onclick="genesysWebchat.startCobrowse()">Enter Co-browse Security Key</button>
 
